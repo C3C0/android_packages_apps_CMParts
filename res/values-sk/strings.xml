@@ -754,4 +754,8 @@
     <string name="perm_enable_management_summary">Povoliť správu povolení aplikácií</string>
     <string name="perm_enable_warning_message">Pozor!\nOdmietnutie väčšiny povolení pravdepodobne zapríčiní nefunkčnosť aplikácie. Ak aplikácia s odmietnutými povoleniami padá, prosím povoľte jej očakávané povolenia, alebo nepoužívajte túto aplikáciu.\nProsím NEZASIELAJTE chybové hlášky do Cyanogenmod ak aplikácia s odmietnutými povoleniami nepracuje ako by sa očakávalo!</string>
     <string name="perm_enable_warning_title">Ste si istý?</string>
+
+    <!-- Spare Parts -->
+    <string name="spare_parts_title">Spare parts</string>
+    <string name="spare_parts_summary">Info o zariadení a dodatočné systémové nastavenia</string>
 </resources>
